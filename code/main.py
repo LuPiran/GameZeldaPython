@@ -1,6 +1,6 @@
 import pygame, sys
-from Code.settings import *
-from Code.level import Level
+from settings import *
+from level import Level
 
 class Game: 
     def __init__(self):
